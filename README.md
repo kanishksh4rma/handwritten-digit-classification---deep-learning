@@ -35,11 +35,6 @@ The Algorithms used are :
 
 	* Convolutional Neural Network (CNN)
 
- ---
-
-# Screenshots :
-![ss](screenshots/1.png)
-
 ---
 
 # ***Accuracy*** : 
