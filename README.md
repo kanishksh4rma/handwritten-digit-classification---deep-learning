@@ -1,7 +1,7 @@
 # handwritten-digit-classification---deep-learning
 handwritten digit classification using Convolutional Neural Network (CNN) --deep learning
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/handwritten-digit-classification---deep-learning.git) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/handwritten-digit-classification---deep-learning.git)
  
  ---
 
@@ -44,5 +44,4 @@ The Algorithms used are :
 
 > Developed by: [Kanishk Sharma](github.com/kanishksh4rma) 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Parkinson-Disease-Prediction-in-Early-Stages)
-
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/handwritten-digit-classification---deep-learning.git)
